@@ -1,19 +1,11 @@
 # Neural_Network_Charity_Analysis
 
 
-## Overview of the loan prediction risk analysis:
+### 1. Overview of the analysis: Explain the purpose of this analysis.
 
 
-### The purpose of this analysis is well defined (4 pt)
-
-Results:
-
-### There is a bulleted list that answers all six questions (15 pt)
-
-Summary:
+### 2. Results: Using bulleted lists and images to support your answers, address the following questions.
 
 
-### There is a summary of the results (2 pt)
 
-
-### There is a recommendation on using a different model to solve the classification problem, and justification (3 pt)
+### 3. Summary
