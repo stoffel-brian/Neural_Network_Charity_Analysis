@@ -15,6 +15,8 @@ Here are the columns of data
 - SPECIAL_CONSIDERATIONS	
 - ASK_AMT	IS_SUCCESSFUL
 
+Here is the H5 file - [AlphabetSoupCharity_Optimzation (.h5)](https://github.com/stoffel-brian/Neural_Network_Charity_Analysis/blob/711560d14024ba7b2679915c2d03e17e438a91a6/AlphabetSoupCharity_Optimzation.h5)
+
 ### 2. Results: Using bulleted lists and images to support your answers, address the following questions.
 
  [Results Un-Optimized (.png)](https://github.com/stoffel-brian/Neural_Network_Charity_Analysis/blob/958190e8f5302b72c55a46bcb20242211f904727/Results%20Un-Optimized.PNG)
