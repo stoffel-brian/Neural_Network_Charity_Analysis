@@ -19,10 +19,10 @@ Here is the H5 file - [AlphabetSoupCharity_Optimzation (.h5)](https://github.com
 
 ### 2. Results: Using bulleted lists and images to support your answers, address the following questions.
 
- [Results Un-Optimized (.png)](https://github.com/stoffel-brian/Neural_Network_Charity_Analysis/blob/958190e8f5302b72c55a46bcb20242211f904727/Results%20Un-Optimized.PNG)
+ ![Results Un-Optimized (.png)](https://github.com/stoffel-brian/Neural_Network_Charity_Analysis/blob/e6d01296198de600f4e6d454f605f29bb12a7642/Results%20Un-Optimized.PNG)
 
  
- [Results Optimized (.png)](https://github.com/stoffel-brian/Neural_Network_Charity_Analysis/blob/958190e8f5302b72c55a46bcb20242211f904727/Results%20Optimized.PNG)
+ ![Results Optimized (.png)](https://github.com/stoffel-brian/Neural_Network_Charity_Analysis/blob/e6d01296198de600f4e6d454f605f29bb12a7642/Results%20Optimized.PNG)
 
 - Data Preprocessing
     - What variable(s) are considered the target(s) for your model?
@@ -40,3 +40,8 @@ Here is the H5 file - [AlphabetSoupCharity_Optimzation (.h5)](https://github.com
       - Added in more layers to increase the optimization. 
 ### 3. Summary
 Not really a useful time measurement; further analysis is requirement for this module to be truly optimized. 
+
+
+
+# 4. Update
+ - Updated the script to include 3 extra models because the accuracy was aroun 72%, which is below the required 75% accuracy.
